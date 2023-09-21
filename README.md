@@ -9,7 +9,8 @@ package main
 
 import (
 	"fmt"
-	"validator"
+
+	"github.com/wuxu92/json-validator"
 )
 
 type TestStruct struct {
